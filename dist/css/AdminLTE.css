@@ -471,6 +471,7 @@ a:focus {
   width: 100%;
   padding: 10px;
   overflow: hidden;
+  white-space: normal;
 }
 .user-panel:before,
 .user-panel:after {
@@ -510,6 +511,7 @@ a:focus {
   list-style: none;
   margin: 0;
   padding: 0;
+  white-space: normal;
 }
 .sidebar-menu > li {
   position: relative;
